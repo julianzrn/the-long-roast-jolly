@@ -26,3 +26,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# verification append: transcript gate fix — appended by a separate verification session on 2026-11-26; no program logic changed.
